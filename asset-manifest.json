@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Rolodex/static/css/main.79fda761.chunk.css",
+    "main.js": "/React-Rolodex/static/js/main.e86740dd.chunk.js",
+    "main.js.map": "/React-Rolodex/static/js/main.e86740dd.chunk.js.map",
+    "runtime-main.js": "/React-Rolodex/static/js/runtime-main.f18778a5.js",
+    "runtime-main.js.map": "/React-Rolodex/static/js/runtime-main.f18778a5.js.map",
+    "static/js/2.27c2c8e3.chunk.js": "/React-Rolodex/static/js/2.27c2c8e3.chunk.js",
+    "static/js/2.27c2c8e3.chunk.js.map": "/React-Rolodex/static/js/2.27c2c8e3.chunk.js.map",
+    "static/js/3.4b7f47e7.chunk.js": "/React-Rolodex/static/js/3.4b7f47e7.chunk.js",
+    "static/js/3.4b7f47e7.chunk.js.map": "/React-Rolodex/static/js/3.4b7f47e7.chunk.js.map",
+    "index.html": "/React-Rolodex/index.html",
+    "static/css/main.79fda761.chunk.css.map": "/React-Rolodex/static/css/main.79fda761.chunk.css.map",
+    "static/js/2.27c2c8e3.chunk.js.LICENSE.txt": "/React-Rolodex/static/js/2.27c2c8e3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/React-Rolodex/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f18778a5.js",
+    "static/js/2.27c2c8e3.chunk.js",
+    "static/css/main.79fda761.chunk.css",
+    "static/js/main.e86740dd.chunk.js"
+  ]
+}
